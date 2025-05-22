@@ -1,1 +1,1 @@
-# git-conflict-challenge   Modification en local cette fois
+# git-conflict-challenge Modification de la 1ère ligne sur GitHub
